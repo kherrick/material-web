@@ -17,9 +17,6 @@ that helps build beautiful and accessible web applications. It uses
 [Material 3](https://m3.material.io/)<!-- {.external} -->, the latest version of Google's
 open-source design system.
 
-**Note:
-[MWC is in maintenance mode pending new maintainers](https://github.com/material-components/material-web/discussions/5642).**
-
 ## Resources
 
 -   [Introduction](./docs/intro.md)
@@ -29,10 +26,6 @@ open-source design system.
 -   [Browser support and FAQ](./docs/support.md)
 
 ## Quick start
-
-> Tip: Using Angular? We recommend using
-> [Angular Material](https://material.angular.io/)<!-- {.external} --> components
-> instead.
 
 This code snippet is a buildless example that loads `@material/web` from a CDN.
 Check out the [quick start](./docs/quick-start.md) guide to install and build
